@@ -1,7 +1,5 @@
 question,answer
 Everything in Ruby is an object,True
-TWO in Ruby is an object,True
-THREEin Ruby is an object,True
-FOUR in Ruby is an object,True
-FIVE in Ruby is an object,True
-SIX in Ruby is an object,True
+Select returns a new array,True
+.first only returns the first value matching the code block,True
+Slice method cannot accept a range as an argument,False

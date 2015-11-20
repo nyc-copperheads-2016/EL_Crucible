@@ -1,0 +1,4 @@
+question,answer
+Alias creates a second name for the variable or method,true
+And appends two or more objects together,true
+END Designates code that must be run unconditionally at the beginning of the program before any other,false
