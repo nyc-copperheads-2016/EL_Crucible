@@ -119,4 +119,4 @@ Consider your choices:
 **SPOILER ALERT: These contain solutions to the Todo challenge - make sure you have solved it on your own first!**
 
 * [Code for Tanner's ToDo app](https://gist.github.com/openspectrum/02239bf831cb7ad4b31f) 
-* [Jesse's talk on refactoring the ToDo app](http://shereef.wistia.com/medias/c9cbc4fc79)  
+* [Jesse's talk on refactoring the ToDo app](http://shereef.wistia.com/medias/c9cbc4fc79)  # EL_Crucible
